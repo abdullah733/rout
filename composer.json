@@ -1,0 +1,17 @@
+{
+    "name": "abdullah/routing",
+    "authors": [
+        {
+            "name": "abdullah",
+            "email": "abdulla733824@gmail.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
